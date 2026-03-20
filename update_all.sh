@@ -5,7 +5,7 @@
 set -e  # Exit on error
 
 # Array of subdirectories that are git repositories
-SUBDIRS=("solution" "template" "tests")
+SUBDIRS=("solution" "template" "tests", "aux")
 
 echo "=== Starting update process ==="
 
